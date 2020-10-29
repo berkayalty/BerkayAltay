@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardViewCornerRadius">30dp</dimen>
+    <dimen name="cardViewTopMargin">10dp</dimen>
+    <dimen name="cardViewEndMargin">10dp</dimen>
+    <dimen name="cardViewStartMargin">10dp</dimen>
+    <dimen name="cardsTitleTextSize">30sp</dimen>
+    <dimen name="cardsTitleMarginTop">20dp</dimen>
+    <dimen name="cardsImageMarginTop">20dp</dimen>
+    <dimen name="cardsImageMarginStartEnd">10dp</dimen>
+    <dimen name="cardsDescriptionTextMarginStartEnd">10dp</dimen>
+    <dimen name="cardsDescriptionTextMarginTop">10dp</dimen>
+    <dimen name="cardsDescriptionTextPadding">10dp</dimen>
+    <dimen name="cardsDescriptionTextSize">15sp</dimen>
+    <dimen name="favButtonMarginStartEnd">10dp</dimen>
+    <dimen name="motorcycleBrandTextSize">17sp</dimen>
+    <dimen name="horizontalLinearLayoutMarginTop">10dp</dimen>
+</resources>

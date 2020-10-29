@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Motorcycle</string>
+    <string name="harleyMotorcycleBrand">Harley Davidson</string>
+    <string name="iron883Title">Iron883</string>
+    <string name="harleyIron883Description">The Iron 883 gets a good looking V-twin engine with a displacement of 883cc.
+        The V-twin is air-cooled and brings along with it the classic Harley sound.
+        The engine is mated to a five-speed manual transmission. The engine makes 49 hp and 54 lb-ft of torque.
+        The Iron 883 opens the door to the Sportster line.
+        It’s not the most powerful, but it offers a lot of style and substance for the money. The bike has a starting price of $8,999.</string>
+
+
+    <string name="harleyFXDR114Title">FXDR114</string>
+    <string name="harleyFXDR114Description">The FXDR 114 has the Milwaukee-Eight 114 engine.
+        It’s an air-cooled V-twin that has a displacement of 1,868cc. The 114 engine is mated to a six-speed manual transmission
+        and it makes 119 lb-ft of torque.
+        The FXDR 114is the kind of bike you get if you love the Harley-Davidson brand but you want
+        something with some modern styling and a look completely different than HD’s other bikes.
+        The FXDR 114 is a unique cruiser and unlike other Softail machines. The company has a price tag of $18,999 on it.</string>
+
+
+    <string name="bmwMotorcycleBrand">BMW</string>
+    <string name="bmwR1250RTitle">R1250R</string>
+    <string name="bmwR1250RDescription">The model features a 1,254cc twin-cylinder boxer engine that makes 136 hp and 105
+        lb-ft of torque. It’s an engine design that BMW uses in several motorcycles in its lineup.
+        This engine has enough power around town, country road, and highway duties, and its boxer design gives you the true BMW experience.
+        The R 1250 R is at home on the open road, but it’s also a fantastic urban machine. The motorcycle is sporty looking and comfortable, and it offers a unique naked roadster riding experience.
+        This makes the $14,995 price tag reasonable.</string>
+
+</resources>
