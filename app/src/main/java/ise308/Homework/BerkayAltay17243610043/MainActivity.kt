@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var imageButton2: ImageButton
     private lateinit var imageButton3: ImageButton
     private lateinit var textView : TextView
+    private lateinit var string : String
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
